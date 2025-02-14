@@ -1,1 +1,1 @@
-# magazine
+# teste magazine
